@@ -1,0 +1,7 @@
+1234567890
+sishir1234
+abcdefgh
+smjrifle123
+
+
+***Generate more using password generator and add hash value to licence.ambr file. Each value on new line***
